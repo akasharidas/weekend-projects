@@ -1,0 +1,6 @@
+generated
+references
+__pycache__
+*.ipynb
+.vscode
+*.jpg
